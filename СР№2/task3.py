@@ -8,5 +8,5 @@ elif x > 0 and y < 0:                   # x > 0, y < 0
     print("Четвертая четверть")
 elif y > 0 and x < 0:               # x < 0, y > 0
         print("Вторая четверть")
-elif y < 0 and x < 0:                   # x < 0, y < 0
+else:                   # x < 0, y < 0
     print("Третья четверть")
